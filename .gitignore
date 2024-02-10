@@ -1,7 +1,10 @@
 
 
 
-
+# Gradle
+/gradle/
+*gradlew*
+*.gradle
 
 # Created by Spring Academy
 HELP.md
