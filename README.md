@@ -3,7 +3,8 @@
 > Learning & memoing starts on 2024-02-07, by Thisoe.
 
 > ### <span style="color:yellow">This repo is abandoned</span>
-> This repo is currently stopped. I found Spring Academy a bit not beginner friendly-ish, and at the same time, a few steps are not working on my Windows machine. <br/> But this repo will be reserving archived since new SpringBoot learning repos [like this](https://github.com/ThisoeCode/springboot-tut_following-devtiro) is going to have tag-links to this file.
+> - [Thisoe's main Spring learning repo has moved here.](https://github.com/ThisoeCode/springboot-tut_following-devtiro)
+> - This repo is currently stopped. I found Spring Academy a bit not beginner friendly-ish, and at the same time, a few steps are not working on my Windows machine. <br/> But this repo will be reserving archived since new SpringBoot learning repos are going to have tag-links to this file.
 
 # 1. Spring Initializr
 https://start.spring.io/
